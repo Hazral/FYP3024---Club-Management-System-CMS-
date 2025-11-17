@@ -1,0 +1,23 @@
+#search_btn{
+    background-color: #bbb39f; 
+    color: white;
+    transition: .4s;
+}
+
+#search_btn:hover{
+    background-color: #cecabf;
+    color: rgb(0, 0, 0);
+}
+
+#view_btn{
+    background-color: #b0a58a; 
+    color: white;
+    transition: .4s;
+}
+
+#view_btn:hover{
+    background-color: #cecabf;
+    color: rgb(0, 0, 0);
+}
+
+
